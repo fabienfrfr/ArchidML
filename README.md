@@ -1,11 +1,12 @@
 # SysDataML
 
+```
 Architecture Data
 │
 ├── Modélisation et Conception
 │   ├── Diagrammes (UML, SysML)
 │   ├── Méthodologies (SysML, BPMN)
-│   └── Outils de Modélisation (Enterprise Architect, Lucidchart, Draw-io, PenPot, Modelio)
+│   └── Outils de Modélisation (Enterprise Architect, Lucidchart, Draw-io, PenPot, Mermaid)
 │
 ├── Gestion des Données (3V)
 │   ├── Vélocité
@@ -69,6 +70,7 @@ Architecture Data
     │   └── Outils de Visualisation (Tableau, Power BI)
     └── Collaboration
         └── Outils de Collaboration (Confluence, Slack)
+```
 
 # ArchiEMF
 Testing Eclipse Capella DiffMerge
